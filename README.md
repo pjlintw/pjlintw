@@ -1,4 +1,13 @@
-## Hi there 👋
+
+<p>
+  <pre align="center">
+👋 Hi there! I'm Pin-Jie (Linus), and I'm a PhD student at the LLMs Lab at Virginia Tech.
+<a href="https://pjlintw.github.io/">Personal Weibsite</a> / <a href=" Twitter">X</a> / <a href="https://scholar.google.com/citations?user=KYeOpSoAAAAJ&hl=en&authuser=1">Google Scholar</a> </pre>
+</p>
+
+
+#### Research
+My research focuses on collaborative and communal machine learning, aiming to efficiently and effectively develop all-rounded LLMs. I explore methods that blend diverse skills, including safety, tool use, coding, multilingual, and instruction-following capabilities. These methods encompass model merging, modular composition, and model adaptation.
 
 <!--
 **pjlintw/pjlintw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
